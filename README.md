@@ -8,3 +8,7 @@ with a wire if you just want use the bare PE1JPD design.
 ### Software
 
 23CM_TRX is very simple program to control TX/RX, PowerAmp Bias and RF Relais. 
+
+### Mircofoon Pinout
+
+THe pinout is conform the Kenwood standard
