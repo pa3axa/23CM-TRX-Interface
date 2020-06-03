@@ -11,4 +11,11 @@ with a wire if you just want use the bare PE1JPD design.
 
 ### Mircofoon Pinout
 
-THe pinout is conform the Kenwood standard
+The pinout is conform the Kenwood standard
+
+### 3D Printed and Parts
+
+For the construction i used a case from Aliexpress with a lenghte of 22 cm.
+The 3D prnted front should fit this AK-C-C50. The speaker grill is For a
+speaker 40x70mm speaker as show on the pictures
+
