@@ -16,10 +16,10 @@ The pinout is conform the Kenwood standard
 ### 3D Printed and Parts
 
 For the construction i used a case from Aliexpress with a lenghte of 22 cm.
-The 3D prnted front should fit this AK-C-C50. The speaker grill is for a
+The 3D printed front should fit this AK-C-C50. The speaker grill is for a
 speaker 40x70mm speaker as show in the pictures.
 
 ### Picture
 
-this is how you can use the PCB.
+This shows how you can use the PCB.
 
